@@ -175,11 +175,7 @@ disqusShortname = ""
     email = "fvonabercron.mfa2021@london.edu"
 
     [[params.contact.phone]]
-<<<<<<< HEAD
-    title = "Mobile"
-=======
     title = "Phone"
->>>>>>> a426f4d4eef74ef1f33ad7a3710bbe7c71c14d62
     phone = "(+49) 172 1354144"
 
     [[params.contact.address]]
@@ -201,11 +197,7 @@ disqusShortname = ""
 
     [[params.footer.social]]
       icon = "fa-facebook"
-<<<<<<< HEAD
-      url= "https://www.facebook.com/freddi.abercron/"
-=======
       url= "https://www.facebook.com/freddi.abercron"
->>>>>>> a426f4d4eef74ef1f33ad7a3710bbe7c71c14d62
       label = "Facebook"
 
     [[params.footer.social]]
