@@ -83,7 +83,7 @@ disqusShortname = ""
     # the 'static/img' folder.
     title = "Hi, my name is Frederic"
     subtitle = "WELCOME TO MY PERSONAL WEBSITE. CLICK THE BUTTON TO THE RIGHT TO LEARN MORE ABOUT ME."
-    buttonText = "Get Started"
+    buttonText = "Learn More"
 
 
   # Tiles Section
@@ -105,13 +105,13 @@ disqusShortname = ""
 
     [[params.tiles.showcase]]
       title = "The weather forecast"
-      subtitle = "Current outlooks for London"
+      subtitle = "Outlooks for London"
       image = "pic03.jpg"
       url = "blogs/magna"
 
     [[params.tiles.showcase]]
       title = "US Bonds"
-      subtitle = "Historic Development"
+      subtitle = "Historic development"
       image = "pic04.jpg"
       url = "blogs/ipsum"
 
