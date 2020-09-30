@@ -93,7 +93,7 @@ disqusShortname = ""
     
     [[params.tiles.showcase]]
       title = "Hobbies"
-      subtitle = "See what I do in my spare time"
+      subtitle = "See what I do in my spare time."
       image = "pic01.jpg"
       url = "blogs/aliquam"
 
@@ -104,20 +104,20 @@ disqusShortname = ""
       url = "blogs/tempus"
 
     [[params.tiles.showcase]]
-      title = "Magna"
-      subtitle = "Lorem Etiam Nullam"
+      title = "The weather forecast"
+      subtitle = "Outlooks for London"
       image = "pic03.jpg"
       url = "blogs/magna"
 
     [[params.tiles.showcase]]
-      title = "Ipsum"
-      subtitle = "Nisl Sed Aliquam"
+      title = "US Bonds"
+      subtitle = "Historic development"
       image = "pic04.jpg"
       url = "blogs/ipsum"
 
     [[params.tiles.showcase]]
-      title = "Consequat"
-      subtitle = "Ipsum Dolor Sit Amet"
+      title = "Germany"
+      subtitle = "Learn more"
       image = "pic05.jpg"
       url = "blogs/ipsum"
 
@@ -191,9 +191,9 @@ disqusShortname = ""
 
     # Uses font awesome icons
     [[params.footer.social]]
-      icon = #"fa-twitter"
-      url= #"https://www.twitter.com"
-      label = #"Twitter"
+      icon = "fa-twitter"
+      url= "https://www.twitter.com"
+      label = "Twitter"
 
     [[params.footer.social]]
       icon = "fa-facebook"
