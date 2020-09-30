@@ -191,9 +191,9 @@ disqusShortname = ""
 
     # Uses font awesome icons
     [[params.footer.social]]
-      icon = #"fa-twitter"
-      url= #"https://www.twitter.com"
-      label = #"Twitter"
+      icon = "fa-twitter"
+      url= "https://www.twitter.com"
+      label = "Twitter"
 
     [[params.footer.social]]
       icon = "fa-facebook"
