@@ -2,7 +2,7 @@
 baseURL = "https://fredericvonabercron.netlify.app/"
 languageCode = "en-us"
 title = "Personal Website for Frederic Abercron"
-theme = "forty"
+theme = "forty""
 
 # Enter your tracking code to enable Google Analytics
 googleAnalytics = ""
