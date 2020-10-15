@@ -92,10 +92,10 @@ disqusShortname = ""
     # Display your showcases here.
     
     [[params.tiles.showcase]]
-      title = "Hobbies"
-      subtitle = "See what I do in my spare time."
+      title = "Biography"
+      subtitle = "This is my story"
       image = "pic01.jpg"
-      url = "blogs/aliquam"
+      url = "blogs/Hobbies"
 
     [[params.tiles.showcase]]
       title = "Pictures"
@@ -110,16 +110,16 @@ disqusShortname = ""
       url = "blogs/magna"
 
     [[params.tiles.showcase]]
-      title = "US Bonds"
-      subtitle = "Historic development"
-      image = "pic04.jpg"
-      url = "blogs/ipsum"
+  #    title = "US Bonds"
+   #   subtitle = "Historic development"
+   #   image = "pic04.jpg"
+    #  url = "blogs/ipsum"
 
-    [[params.tiles.showcase]]
-      title = "Germany"
-      subtitle = "Learn more"
-      image = "pic05.jpg"
-      url = "blogs/ipsum"
+   # [[params.tiles.showcase]]
+   #  title = "Germany"
+   #   subtitle = "Learn more"
+   #    image = "pic05.jpg"
+   #   url = "blogs/ipsum"
 
     [[params.tiles.showcase]]
       title = "Career"
