@@ -20,7 +20,7 @@ disqusShortname = ""
 
   # Provide your metadata here.
   name = "Frederic"
-  description = "I am a student in the MFA at London Business School and this is my website"
+  description = "I am a student in the MFA at London Schoolof Economics and this is my website."
 
   # Link custom assets relative to /static
   custom_css = []
@@ -101,7 +101,7 @@ disqusShortname = ""
       title = "Covid 19 Disease"
       subtitle = "Stay informed"
       image = "COVID_1.jpg"
-      url = "blogs/covid"
+      url = "projects/project3"
 
     [[params.tiles.showcase]]
       title = "The weather forecast"
