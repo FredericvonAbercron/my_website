@@ -44,7 +44,7 @@ disqusShortname = ""
     # logo = "logo.png"
 
     [[params.navigation.links]]
-      name = "Home"
+      name = "Overview"
       url = "#"
 
     [[params.navigation.links]]
@@ -52,7 +52,7 @@ disqusShortname = ""
       url = "blogs"
 
     [[params.navigation.links]]
-      name = "Generic Blog"
+      name = "Biography"
       url = "blogs/ipsum"
 
     [[params.navigation.links]]
@@ -94,8 +94,8 @@ disqusShortname = ""
     [[params.tiles.showcase]]
       title = "Biography"
       subtitle = "This is my story"
-      image = "pic01.jpg"
-      url = "blogs/Hobbies"
+      image = "FvA.jpg"
+      url = "blogs/biography"
 
     [[params.tiles.showcase]]
       title = "Pictures"
@@ -109,11 +109,11 @@ disqusShortname = ""
       image = "pic03.jpg"
       url = "blogs/magna"
 
-  #  [[params.tiles.showcase]]
-  #    title = "US Bonds"
-   #   subtitle = "Historic development"
-   #   image = "pic04.jpg"
-    #  url = "blogs/ipsum"
+    [[params.tiles.showcase]]
+      title = "US Bonds"
+      subtitle = "Historic development"
+      image = "pic04.jpg"
+      url = "blogs/aliquam"
 
    # [[params.tiles.showcase]]
    #  title = "Germany"
@@ -121,11 +121,11 @@ disqusShortname = ""
    #    image = "pic05.jpg"
    #   url = "blogs/ipsum"
 
-    [[params.tiles.showcase]]
-      title = "Career"
-      subtitle = "Curriculum Vitae"
-      image = "pic06.jpg"
-      url = "blogs/ipsum"
+    #[[params.tiles.showcase]]
+   #   title = "Career"
+   #   subtitle = "Curriculum Vitae"
+   #   image = "pic06.jpg"
+   #   url = "blogs/aliquam"
     # You can make more showcases by copy and pasting the code above
 
   [params.blog]
@@ -139,17 +139,17 @@ disqusShortname = ""
   [params.two]
     enable = true
     title = "My Maxim"
-    subtitle = """
-    Excellence is an art won by training and habituation. We do not rightly because we have virtue or excellence, but we rather have those
-    because we have acted rightly. We are what we repeatetly do. Excellence, then, is not an act but a habit. - Aristaatle"
-    # buttonText = "Get Started"
-    # url = "blogs"
+    subtitle = """'Excellence is an art won by training and habituation. We do not rightly because we have virtue or excellence, but we rather have those
+    because we have acted rightly. We are what we repeatetly do. Excellence, then, is not an act but a habit.' - Aristotle"""
+    buttonText = "Learn more about Aristotle"
+    url = "https://plato.stanford.edu/entries/aristotle/"
 
 
   # Contact section
   [params.contact]
     enable = true
-    buttonSend = "Send message"
+    title = "Contact me"
+    buttonSend = "Contact me"
     buttonClear = "Clear"
 
     # Since this template is static, the contact form uses www.formspree.io as a
@@ -185,7 +185,7 @@ disqusShortname = ""
   # Footer section
   [params.footer]
     enable = true
-    copyright = "Company Name"
+    copyright = "Frederic von Abercron"
 
     # Uses font awesome icons
   #  [[params.footer.social]]
