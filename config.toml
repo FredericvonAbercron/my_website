@@ -109,7 +109,7 @@ disqusShortname = ""
       image = "pic03.jpg"
       url = "blogs/magna"
 
-    [[params.tiles.showcase]]
+  #  [[params.tiles.showcase]]
   #    title = "US Bonds"
    #   subtitle = "Historic development"
    #   image = "pic04.jpg"
@@ -190,10 +190,10 @@ disqusShortname = ""
     copyright = "Company Name"
 
     # Uses font awesome icons
-    [[params.footer.social]]
-      icon = "fa-twitter"
-      url= "https://www.twitter.com"
-      label = "Twitter"
+  #  [[params.footer.social]]
+  #    icon = "fa-twitter"
+  #    url= "https://www.twitter.com"
+  #    label = "Twitter"
 
     [[params.footer.social]]
       icon = "fa-facebook"
