@@ -188,10 +188,10 @@ disqusShortname = ""
     copyright = "Frederic von Abercron"
 
     # Uses font awesome icons
-  #  [[params.footer.social]]
-  #    icon = "fa-twitter"
-  #    url= "https://www.twitter.com"
-  #    label = "Twitter"
+  [[params.footer.social]]
+      icon = "fa-spotify"
+      url= "https://open.spotify.com/user/fredda3005-de?si=V_hmbNvQTtCJkWjuO8A0LA"
+      label = "Spotify"
 
     [[params.footer.social]]
       icon = "fa-facebook"
