@@ -98,10 +98,10 @@ disqusShortname = ""
       url = "blogs/biography"
 
     [[params.tiles.showcase]]
-      title = "Pictures"
-      subtitle = "Find me here"
-      image = "pic02.jpg"
-      url = "blogs/tempus"
+      title = "Covid 19 Disease"
+      subtitle = "Stay informed"
+      image = "COVID_1.jpg"
+      url = "blogs/covid"
 
     [[params.tiles.showcase]]
       title = "The weather forecast"
