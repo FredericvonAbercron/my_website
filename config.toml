@@ -52,7 +52,7 @@ disqusShortname = ""
       url = "projects/project5"
 
     [[params.navigation.links]]
-      name = "The US Election"
+      name = "US Election"
       url = "projects/project6"
 
     [[params.navigation.links]]
