@@ -37,8 +37,8 @@ disqusShortname = ""
 
   # Navigation Section
   [params.navigation]
-    title = "Frederic"
-    subtitle = "Welcome"
+    title = "Frederic von Abercron"
+    subtitle = "Homepage"
     menu = "Menu"
     # Optional logo as brand stored in img/
     # logo = "logo.png"
@@ -52,8 +52,8 @@ disqusShortname = ""
       url = "projects/project5"
 
     [[params.navigation.links]]
-      name = "Biography"
-      url = "blogs/ipsum"
+      name = "The US Election"
+      url = "projects/project6"
 
     [[params.navigation.links]]
       name = "Elements"
@@ -68,13 +68,13 @@ disqusShortname = ""
 
     # Button Style 1
     [[params.navigation.button1]]
-      name = "Get Started"
-      url = "blogs"
+      name = "Return to main page"
+      url = "#"
 
     # Button Style 2
-    [[params.navigation.button2]]
-      name = "Log In"
-      url = "#"
+    #[[params.navigation.button2]]
+     # name = "Contact me"
+      #url = "contact"
 
 
   # Banner section
@@ -82,9 +82,9 @@ disqusShortname = ""
     # To change the background image on the homepage banner, replace 'banner.jpg' in
     # the 'static/img' folder.
     title = "Hi, my name is Frederic"
-    subtitle = "WELCOME TO MY WEBSITE. CLICK THE BUTTON TO THE RIGHT TO LEARN MORE ABOUT ME."
+    subtitle = "WELCOME TO MY Homepage. CLICK THE BUTTON TO THE RIGHT TO LEARN MORE ABOUT ME."
     buttonText = "Learn More"
-
+    
 
   # Tiles Section
   [params.tiles]
@@ -105,9 +105,9 @@ disqusShortname = ""
 
     [[params.tiles.showcase]]
       title = "The US Election"
-      subtitle = "Who will win?"
+      subtitle = "How popular is Trump?"
       image = "election.jpg"
-      url = "blogs/magna"
+      url = "projects/project6"
 
     [[params.tiles.showcase]]
       title = "US Bonds"
