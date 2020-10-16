@@ -100,7 +100,7 @@ disqusShortname = ""
     [[params.tiles.showcase]]
       title = "Covid 19 Disease"
       subtitle = "Stay informed"
-      image = "COVID_1.jpg"
+      image = "COVID_3.jpg"
       url = "projects/project5"
 
     [[params.tiles.showcase]]
