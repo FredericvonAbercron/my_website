@@ -44,8 +44,8 @@ disqusShortname = ""
     # logo = "logo.png"
 
     [[params.navigation.links]]
-      name = "Overview"
-      url = "#"
+      name = "About me"
+      url = "blogs/biography"
 
     [[params.navigation.links]]
       name = "Blogs"
