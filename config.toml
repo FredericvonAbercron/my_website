@@ -115,11 +115,11 @@ disqusShortname = ""
       image = "payment.jpg"
       url = "projects/project7"
 
-   # [[params.tiles.showcase]]
-   #  title = "Germany"
-   #   subtitle = "Learn more"
-   #    image = "pic05.jpg""
-   #   url = "blogs/ipsum"
+    [[params.tiles.showcase]]
+     title = "GDP Components"
+      subtitle = "Global Comparison"
+       image = "GDP_3.jpg"
+      url = "projects/project8"
 
     #[[params.tiles.showcase]]
    #   title = "Career"
@@ -140,7 +140,9 @@ disqusShortname = ""
     enable = true
     title = "My Maxim"
     subtitle = """'Excellence is an art won by training and habituation. We do not rightly because we have virtue or excellence, but we rather have those
-    because we have acted rightly. We are what we repeatetly do. Excellence, then, is not an act but a habit.' - Aristotle"""
+    because we have acted rightly. We are what we repeatetly do. Excellence, then, is not an act but a habit.' 
+    
+    - Aristotle"""
     buttonText = "Learn more about Aristotle"
     url = "https://plato.stanford.edu/entries/aristotle/"
 
