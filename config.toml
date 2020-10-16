@@ -56,8 +56,8 @@ disqusShortname = ""
       url = "projects/project6"
 
     [[params.navigation.links]]
-      name = "Elements"
-      url = "elements.html"
+      name = "Pay Discrimination"
+      url = "projects/project7"
 
     # Add custom links here by uncommenting code below. To remove links just delete
     # the [[params.navigation.links]] map associated with that link. Copy and paste
@@ -110,10 +110,10 @@ disqusShortname = ""
       url = "projects/project6"
 
     [[params.tiles.showcase]]
-      title = "US Bonds"
-      subtitle = "Historic development"
-      image = "pic04.jpg"
-      url = "blogs/aliquam"
+      title = "Pay Discrimintation"
+      subtitle = "A Case Study"
+      image = "payment.jpg"
+      url = "projects/project7"
 
    # [[params.tiles.showcase]]
    #  title = "Germany"
