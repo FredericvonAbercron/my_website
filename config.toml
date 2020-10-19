@@ -65,6 +65,10 @@ disqusShortname = ""
     [[params.navigation.links]]
         name = "GDP Components"
         url = "projects/project8"
+        
+    [[params.navigation.links]]
+        name = "Yield Curve Inversion"
+        url = "projects/project9"
 
     # Button Style 1
     [[params.navigation.button1]]
@@ -118,14 +122,14 @@ disqusShortname = ""
     [[params.tiles.showcase]]
      title = "GDP Components"
       subtitle = "Global Comparison"
-       image = "GDP_3.jpg"
+       image = "GDP_4.jpg"
       url = "projects/project8"
 
-    #[[params.tiles.showcase]]
-   #   title = "Career"
-   #   subtitle = "Curriculum Vitae"
-   #   image = "pic06.jpg"
-   #   url = "blogs/aliquam"
+    [[params.tiles.showcase]]
+      title = "Yield Curve Inversion"
+      subtitle = "A Recession Indicator?"
+      image = "Yield.jpg"
+      url = "projects/project9"
     # You can make more showcases by copy and pasting the code above
 
   [params.blog]
